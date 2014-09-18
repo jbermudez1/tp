@@ -1,0 +1,74 @@
+/*MAX*/
+/*@media screen and (max-width:767px){
+
+#logo {
+	text-align: center;
+}
+
+}*/
+
+/*MINS*/
+@media screen and (min-width: 500px) {
+
+	.titulo {
+		font-size: 3em;
+	}
+
+}
+@media screen and (min-width: 768px) {
+	#menuLateral {
+	-webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	}
+#menuLateral {
+	max-width: 23%;
+}	
+.detalleTejas {
+	max-width: 100%;
+}
+.tagsindex {
+	text-align: left;
+}
+}
+
+@media screen and (min-width: 1200px){
+	header#index {
+background: url('../img/bg-destock-exlg.jpg') no-repeat bottom center;
+background-size: cover;
+}
+
+}
+
+/*@media screen and (min-width: 320px) and (max-width: 539px) and (orientation:portrait){
+header {
+	
+}
+
+}
+@media screen and (min-width: 540px) and (max-width: 766px){
+	#detalleTejas img {
+	max-width: 50%;
+
+}
+
+}
+
+@media screen and (min-width: 767px) and (max-width: 1199px){
+	 @media screen and (orientation:portrait) { 
+header {
+	height: 50%
+}
+  }
+header {
+	background-position: bottom center;
+}
+#detalleTejas {
+		max-width: 70%;
+
+	margin-top: 40px;
+}
+}
+
+
+
+*/
