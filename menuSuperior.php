@@ -1,7 +1,7 @@
 			<div class="container">
 				<nav class="row">
 
-					<div class="col-xs-12 col-sm-3 " id="logo">
+					<div class="col-xs-12 col-sm-3 hidden-xs " id="logo">
 						<img clas="img-responsive inline" src="img/tp-logo.png">
 					</div>
 
@@ -16,15 +16,71 @@
 						<li><a href="#"><i class="fa fa-twitter"></i></a>
 					</ul>
 					</div>
-				</nav>
-				<article class="row banner ">
+					<!-- menu en xs -->
+					<div class="menuxs visible-xs">
+						   <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><img class="inline logo-xs" src="img/logo-xs.png"></a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Inicio</a></li>
+            <li><a href="#about">Nuestra Empresa</a></li>
+            <li><a href="productos.php"><strong>Producto</strong></a></li>
+            <li><a href="#about">Ubicación</a></li>
 
-					<div class="col-sm-4 col-sm-offset-8 imgindex">
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+<!-- 						<div class="row">
+							<div class="col-xs-6">
+									<img clas="img-responsive inline" src="img/logo-xs.png">
+							</div>
+							<div class="col-xs-6">
+								<div class="dropdown">
+								  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+								    Menú
+								    <span class="caret"></span>
+								  </button>
+								  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+								    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Inicio</a></li>
+								    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Empresa</a></li>
+								    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Productos</a></li>
+								    <li role="presentation" class="divider"></li>
+								    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Ubicación</a></li>
+								  </ul>
+								</div>
+							</div>
+					</div> -->
+					</div>
+				</nav>
+				<!-- INFORMACION XS -->
+				<article class="row banner visible-xs ">
+
+					<div class="text-center">
 						<img class="img-responsive detalleTejas inline" src="img/teja-detalle.png">
 					</div>
-<!-- 					<div class="col-sm-8 tagsindex">
+					<div class="col-sm-8 col-lg-6 tagsindex">
 						<p class="titulo fblanca">MAYOR AHORRO DE NEGERÍA,</p>
 						<p class="subtitulo fblanca">MAYOR VALOR POR PULGADA.</p>
-					</div> -->
+					</div>
 				</article>
+				<!-- visible en LG -->
+				<article class="bannerLg hidden-xs">
+						<div class="col-sm-6">6</div>
+						<div class="col-sm-6">6</div>
+
+
+				</article>
+
+
 			</div>

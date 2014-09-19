@@ -4,11 +4,22 @@ $(document).ready( function(){
 	
 });
 
-$('#logo').click( ocultaMenu);
+function primerProductos() {
+		$.get ("productos/poliuretano/construccionFachada/box.html", function(producto){
+		$('#detalleProductos').html(producto);
+
+	})	
+
+
+}
+
+$('#verMenuLateral').click( ocultaMenu);
 
 
 function ocultaMenu () {
-	$('#menuLateral').toggleClass('oculto');
+	$('#menuLateral').toggleClass('oculto muyalto');
+	// $('#poliuretano').toggle();
+
 }
 
 

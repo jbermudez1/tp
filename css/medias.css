@@ -8,35 +8,50 @@
 }*/
 
 /*MINS*/
+
 @media screen and (min-width: 500px) {
 
 	.titulo {
 		font-size: 3em;
 	}
+	.nombreProducto .rutaProducto {
+	margin-left: 20px;
+}
 
 }
 @media screen and (min-width: 768px) {
 	#menuLateral {
 	-webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+	width: 25%;
 	}
-#menuLateral {
-	max-width: 23%;
-}	
+
 .detalleTejas {
 	max-width: 100%;
 }
 .tagsindex {
 	text-align: left;
 }
+header#index {
+	height: 40%
 }
+
+}
+@media screen and (min-width: 992px) {
+	#menuLateral {
+	width: 27%;
+	}
+
+	}
 
 @media screen and (min-width: 1200px){
 	header#index {
 background: url('../img/bg-destock-exlg.jpg') no-repeat bottom center;
 background-size: cover;
 }
-
+	#menuLateral {
+	width: 20%;
+	}
 }
 
 /*@media screen and (min-width: 320px) and (max-width: 539px) and (orientation:portrait){

@@ -19,7 +19,15 @@ header#index {
 background: url('../img/bg-destock.jpg') bottom center no-repeat;
 background-size: cover;
 margin-bottom: 30px;
-height: 60%
+/*height: 70%*/
+}
+.menuxs {
+	background-color: #f6f6f6;
+	padding-bottom: 48px
+}
+.logo-xs {
+	width: 50%;
+	margin-top: -7px;
 }
 
 header#interior {
@@ -77,6 +85,15 @@ padding: 0px;
 
 
 }
+#verMenuLateral {
+	border: solid white 1px;
+	padding: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	background: rgba(0,0,0,0.2);
+
+}
 .menu li {
 	display: inline;
 	padding-left: 10px;
@@ -121,20 +138,37 @@ h3 {
 .panel {
 	background-color: #f8f8f8;
 }
+.lateral {
+	height: 100%
+}
 #menuLateral {
 	z-index: 50;
 	background-color: #f8f8f8;
 	position: absolute;
 	width: 80%;
-	max-width: 350px;
+	/*max-width: 350px;*/
+/*	width: 100%;*/
 	margin-left: -15px;
-	bottom: 0px;
 	top: 31%;
-	-webkit-transition-duration: .25s;
+	bottom: 0px;
+	height: 100%
+	
+		-webkit-transition-duration: .25s;
     transition-duration: .25s;
 
 }
-
+/*.muyalto {
+	height: 125%
+}*/
+.container.gris {
+	background-color: #f8f8f8
+}
+.fblanco {
+	background: white
+}
+.muyalto {
+	height: 125%
+}
 .oculto {
     -webkit-transform: translate3d(-210%, 0, 0);
     transform: translate3d(-210%, 0, 0);
@@ -163,20 +197,24 @@ h3 {
 .subMenuLateral a {
 	display: block
 }
+/*NAVBAR*/
 
-.manuLaretal-link:hover, #menuLateral a:hover{
+.navbar-nav > li:nth-child(2n+1) {
+	background-color: #ededed
+} 
+/*.manuLaretal-link:hover, #menuLateral a:hover{
 	background-color: #eeeeee;
 	text-decoration: none
-}
+}*/
 .manuLaretal-lista li {
 	list-style: none;
 		padding: 5px;
 
 }
-#menuLateral a {
+/*#menuLateral a {
 	color: gray
 
-}
+}*/
 .submenu {
 	font-weight: bold
 }
@@ -186,6 +224,66 @@ h3 {
 	display: block;
 	padding: 0.8em
 }
+
+nav h4 {
+	font-size: 1em;
+
+}
+.panel > a {
+	background: #c0c0c0;
+	color: white;
+	font-weight: bold
+}
+.panel > a:hover {
+	background: gray
+}
+.panel .manuLaretal-lista h5 {
+	margin-top: 0px
+}
+/*detalleProductos*/
+#detalleProductos {
+
+}
+
+/*VISTA DE LOS PRODUCTOS*/
+
+.nombreProducto h2 {
+	color: #e79a41;
+	font-weight: 700;
+	display: inline-block;
+	font-size: 3em;
+}
+.nombreProducto .rutaProducto {
+	color: gray;
+	display: inline-block;
+	
+}
+
+.subtitutlo {
+	font-weight: 700;
+	font-size: 1.3em
+
+}
+.tabas {
+	margin-top: 30px;
+}
+.pdf{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
