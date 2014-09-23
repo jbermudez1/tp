@@ -108,11 +108,15 @@ padding: 0px;
 	color: white;
 }
 /*COLORES DE FUENTE*/
+.pie{
+ font-size: 0.8em;
+ color: #989898;
+}
 .fblanca {
 	color: white;
 }
 .fnaranja{
-	color: #e79a41;
+	color: #ff6914;
 }
 .titulo {
 	font-size: 1.5em;
@@ -248,7 +252,7 @@ nav h4 {
 /*VISTA DE LOS PRODUCTOS*/
 
 .nombreProducto h2 {
-	color: #e79a41;
+	color: #ff6914;
 	font-weight: 700;
 	display: inline-block;
 	font-size: 3em;

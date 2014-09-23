@@ -42,7 +42,7 @@
                                         <a class="submenu" href="#construccionFachada" data-toggle="collapse" data-parent="#poliuretano">Fachada +</a>
                                             <ul id="construccionFachada" class="collapse subMenuLateral" >
                                                 <li><a class="cargaPagina" data-producto="box" data-cat="poliuretano/construccionFachada">Box</a></li>
-                                                <li><a >Top</a></li>
+                                                <li><a class="cargaPagina" data-producto="top" data-cat="poliuretano/construccionFachada">Top</a></li>
                                                 <li><a >Mec</a></li>
                                                 <li><a >Italop</a></li>
                                             </ul>
