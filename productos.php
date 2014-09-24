@@ -43,8 +43,8 @@
                                             <ul id="construccionFachada" class="collapse subMenuLateral" >
                                                 <li><a class="cargaPagina" data-producto="box" data-cat="poliuretano/construccionFachada">Box</a></li>
                                                 <li><a class="cargaPagina" data-producto="top" data-cat="poliuretano/construccionFachada">Top</a></li>
-                                                <li><a >Mec</a></li>
-                                                <li><a >Italop</a></li>
+                                                <li><a class="cargaPagina" data-producto="mec" data-cat="poliuretano/construccionFachada">Mec</a></li>
+                                                <li><a class="cargaPagina" data-producto="italtop" data-cat="poliuretano/construccionFachada">Italop</a></li>
                                             </ul>
 
                                    <!--  -->
@@ -52,26 +52,35 @@
                                         <a class="submenu" href="#poliuretanoCubierta" data-toggle="collapse" data-parent="#poliuretano" >Cubierta +</a>
                                         <ul id="poliuretanoCubierta" class="collapse subMenuLateral">
                                             <li><a class="cargaPagina"  data-producto="penta" data-cat="poliuretano/construccionCubierta">Penta</a></li>
-                                            <li><a >Mono Penta</a></li>
-                                            <li><a >Mec</a></li>
-                                            <li><a >Italop</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monopenta" data-cat="poliuretano/construccionCubierta">Mono Penta</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monopentadeck" data-cat="poliuretano/construccionCubierta">Mono Penta Deck</a></li>
+                                            <li><a class="cargaPagina"  data-producto="ter" data-cat="poliuretano/construccionCubierta">Ter</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monoter" data-cat="poliuretano/construccionCubierta">Mono Ter</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monoterdeck" data-cat="poliuretano/construccionCubierta">Mono Ter Deck</a></li>
+                                            <li><a class="cargaPagina"  data-producto="tapajuntas" data-cat="poliuretano/construccionCubierta">Tapajuntas</a></li>
+                                            <li><a class="cargaPagina"  data-producto="chapapenta" data-cat="poliuretano/construccionCubierta">Chapa Penta G5</a></li>
+                                            <li><a >Italtap</a></li>
+                                            <li><a >Monoitaltap</a></li>
+                                            <li><a class="cargaPagina"  data-producto="italcoppo" data-cat="poliuretano/construccionCubierta">Italcoppo</a></li>
                                         </ul>
                                    </li>
                                </div>
                                     <h5>AgroPanel</h5>                    
                                     
-                                            <li><a class="cargaPagina" data-producto="penta" data-cat="poliuretano/agropanel" >Penta</a></li>
-                                            <li><a >Mono Penta</a></li>
-                                            <li><a >Mec</a></li>
-                                            <li><a >Italop</a></li>
+                                            <li><a class="cargaPagina" data-producto="agroter" data-cat="poliuretano/agropanel" >Agroter</a></li>
+                                            <li><a class="cargaPagina" data-producto="polipur" data-cat="poliuretano/agropanel">Polipur</a></li>
+                                            <li><a class="cargaPagina" data-producto="agropenta" data-cat="poliuretano/agropanel">Agropenta</a></li>
+                                            <li><a class="cargaPagina" data-producto="agrocoppo" data-cat="poliuretano/agropanel">Agrocoppo</a></li>
+                                            <li><a >Agroitaltap</a></li>
+                                            <li><a >Agromonoter</a></li>
+                                            <li><a >Agrotapajuntas</a></li>
                                  
                                   
                                     <h5>Frigromec</h5>                    
                                        
                                             <li><a class="cargaPagina" data-producto="frigomecbt" data-cat="poliuretano/frigromec">Frigomec BT</a></li>
-                                            <li><a >Mono Penta</a></li>
-                                            <li><a >Mec</a></li>
-                                            <li><a >Italop</a></li>
+                                            <li><a class="cargaPagina" data-producto="frogomectp" data-cat="poliuretano/frigromec">Frogomec TP</a></li>
+ 
                                                    
                                 </ul>
                                 <!--  -->
@@ -80,9 +89,14 @@
                                 <ul id="lanaMineral" class="collapse manuLaretal-lista categoriaDeProducto">
                                     <h5>Construccion</h5> 
                                     <div class="construccion subMenuLateral">
-                                                     <li><a class="cargaPagina" data-producto="pentaw" data-cat="lanaMinerak/construcion">Pebta W</a></li>
-                                       <li>cuatro</li>
-                                       <li>cinco</li>
+                                                     <li><a class="cargaPagina" data-producto="pentaw" data-cat="lanaMinerak/construcion">Penta W</a></li>
+                                       <li>Top W Fijación oculta</li>
+                                       <li>Top WR</li>
+                                       <li>Mec W</li>
+                                       <li>Mec WR</li> 
+                                       <li>Penta WA (acústico)</li>
+                                       <li>Mec WA acústico</li>
+                                       <li>Top WA acústico</li>
                                     </div>
                                 </ul>
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" href="#perfiles">
