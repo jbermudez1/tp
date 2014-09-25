@@ -74,13 +74,13 @@
                                             <li><a class="cargaPagina" data-producto="agrocoppo" data-cat="poliuretano/agropanel">Agrocoppo</a></li>
                                             <li><a >Agroitaltap</a></li>
                                             <li><a >Agromonoter</a></li>
-                                            <li><a >Agrotapajuntas</a></li>
+                                            <li><a class="cargaPagina" data-producto="agrotapajuntas" data-cat="poliuretano/agropanel">Agrotapajuntas</a></li>
                                  
                                   
                                     <h5>Frigromec</h5>                    
                                        
-                                            <li><a class="cargaPagina" data-producto="frigomecbt" data-cat="poliuretano/frigromec">Frigomec BT</a></li>
-                                            <li><a class="cargaPagina" data-producto="frogomectp" data-cat="poliuretano/frigromec">Frogomec TP</a></li>
+                                            <li><a class="cargaPagina" data-producto="frigomecbt" data-cat="poliuretano/frigomec">Frigomec BT</a></li>
+                                            <li><a class="cargaPagina" data-producto="frigomectp" data-cat="poliuretano/frigomec">Frigomec TP</a></li>
  
                                                    
                                 </ul>
