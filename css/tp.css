@@ -3,12 +3,13 @@ body, html {
 	height: 100%;
 /*	font-size: 16px;
 */	font-family: 'Open Sans', sans-serif;
+color: gray
 	
 
 }
 .panel {
-border: none;
-box-shadow: none
+/*border: none;*/
+/*box-shadow: none*/
 
 }
 #raya {
@@ -29,11 +30,13 @@ margin-bottom: 30px;
 	width: 50%;
 	margin-top: -7px;
 }
-
+.margen1 {
+	margin-bottom: 20px
+}
 header#interior {
 background: url('../img/bg-destock.jpg') no-repeat center center;
 background-size: cover;
-height: 30%
+/*height: 30%*/
 }
 .block {
 	display: inline-block;
@@ -146,6 +149,7 @@ h3 {
 	height: 100%
 }
 #menuLateral {
+	   
 	z-index: 50;
 	background-color: #f8f8f8;
 	position: absolute;
@@ -276,7 +280,9 @@ nav h4 {
 	margin-bottom: 20px;
 }
 
-
+.ui-loader {
+	display: none
+}
 
 
 

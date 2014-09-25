@@ -2,7 +2,7 @@
 				<nav class="row">
 
 					<div class="col-xs-12 col-sm-3 hidden-xs " id="logo">
-						<img clas="img-responsive inline" src="img/tp-logo.png">
+						<a href="index.php"> <img clas="img-responsive inline" src="img/tp-logo.png"></a>
 					</div>
 
 					<div class="col-sm-9 hidden-xs menu">
@@ -76,8 +76,13 @@
 				</article>
 				<!-- visible en LG -->
 				<article class="bannerLg hidden-xs">
-						<div class="col-sm-6">6</div>
-						<div class="col-sm-6">6</div>
+						<div class="col-sm-12 text-right">
+							<img class="img-responsive detalleTejas inline" src="img/teja-detalle.png">
+						</div>
+						<div class="col-sm-12 margen1">
+							<p class="titulo fblanca">MAYOR AHORRO DE NEGERÍA,</p>
+							<p class="subtitulo fblanca">MAYOR VALOR POR PULGADA.</p>
+						</div>
 
 
 				</article>

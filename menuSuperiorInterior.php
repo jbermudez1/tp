@@ -2,7 +2,8 @@
 				<nav class="row">
 
 					<div class="col-xs-12 col-sm-3 hidden-xs " id="logo">
-						<img clas="img-responsive inline" src="img/tp-logo.png">
+						<a href="index.php"> <img clas="img-responsive inline" src="img/tp-logo.png"></a>
+
 					</div>
 
 					<div class="col-sm-9 hidden-xs menu">

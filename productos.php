@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+
 
     <head>
         <meta charset="UTF-8"/>
@@ -10,13 +10,12 @@
         <link rel="stylesheet" type="text/css" href="css/medias.css">
         <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui"> 
+<title>TP</title>
+
 
     </head>
-    <style type="text/css">
 
-    </style>
-</head>
 
 <body>
 
@@ -28,13 +27,15 @@
             <?php include('menuSuperiorInterior.php') ?>
         </header>
         <section class="container gris" >
+            <div class="row">
+                <div class="col-sm-4">
                         <nav id="menuLateral" class="muebelo" >
                             <div class="panel">
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" 
                                 href="#poliuretano">
                                     <h4> Panel Poliuretano</h4>
                                 </a>
-                                <ul id="poliuretano" class="collapse manuLaretal-lista categoriaDeProducto subMenuLateral">
+                                <ul id="poliuretano" class="collapse in manuLaretal-lista categoriaDeProducto subMenuLateral">
                                     <div class="poliuretanoCat">
                                         <h5>Panel de Construcción</h5>
                                    <li >
@@ -108,10 +109,11 @@
                                 </ul>
                             </div>
                         </nav>
-            <div class="row">
+                        </div>
+         <!--    <div class="row"> -->
             
                
-                    <div id="" class="col-xs-12 col-sm-8 col-sm-offset-4 fblanco">
+                    <div id="contenedorProductos" class="col-xs-12 col-sm-8 fblanco">
                         <section id="detalleProductos">
                             Contenido...
                         </section>
@@ -122,6 +124,7 @@
    
     <!-- jQuery Version 1.11.0 -->
     <script src="js/jquery-1.11.0.js"></script>
+        <script src="js/quojs/quo.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
@@ -133,6 +136,7 @@
 <!--     <footer>
         <?php include('footer.php') ?>
     </footer> -->
+
 </body>
 
 </html>

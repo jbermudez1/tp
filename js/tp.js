@@ -17,8 +17,8 @@ $('#verMenuLateral').click( ocultaMenu);
 
 
 function ocultaMenu () {
-	$('#menuLateral').toggleClass('oculto muyalto');
-	// $('#poliuretano').toggle();
+	$('#menuLateral').toggleClass('oculto ');
+	// $('#poliuretano').toggleClass('in');
 
 }
 
@@ -42,3 +42,13 @@ function cargarPaginas (event){
 	})	
 
 }
+
+$$("#contenedorProductos" ).on("swipeRight", ocultaMenu );
+$$("#menuLateral" ).on("swipeLeft", ocultaMenu );
+
+
+
+
+
+
+

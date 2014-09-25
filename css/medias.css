@@ -23,7 +23,8 @@
 	#menuLateral {
 	-webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-	width: 25%;
+	width: 100%;
+	box-shadow: 
 	}
 
 .detalleTejas {
@@ -33,13 +34,13 @@
 	text-align: left;
 }
 header#index {
-	height: 40%
+/*	height: 40%*/
 }
 
 }
 @media screen and (min-width: 992px) {
 	#menuLateral {
-	width: 27%;
+	/*width: 27%;*/
 	}
 
 	}
@@ -50,7 +51,7 @@ background: url('../img/bg-destock-exlg.jpg') no-repeat bottom center;
 background-size: cover;
 }
 	#menuLateral {
-	width: 20%;
+	/*width: 20%;*/
 	}
 }
 
