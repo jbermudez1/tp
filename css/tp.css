@@ -285,7 +285,16 @@ nav h4 {
 }
 
 
+/*UBICACION MAPA*/
 
+#mapa {
+height: 230px;
+margin-bottom: 20px;
+text-align: center;
+font-size: 2em;
+color: orange;
+
+}
 
 
 

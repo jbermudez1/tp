@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-
     <head>
         <meta charset="UTF-8"/>
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -10,18 +7,12 @@
         <link rel="stylesheet" type="text/css" href="css/medias.css">
         <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui"> 
-<title>TP</title>
-
-
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui"> 
+        <title>TP</title>
     </head>
-
-
 <body>
-
-        <section id="raya">
-<!--              <span class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">sss<</span>
- -->       </section>
+    <section id="raya">
+    </section>
 
         <header id="interior">
             <?php include('menuSuperiorInterior.php') ?>

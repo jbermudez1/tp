@@ -11,7 +11,7 @@
 						<li class="separador"><a href="index.php">Inicio</a>
 						<li class="separador"><a href="#">Nuestra Empresa</a>
 						<li class="separador"><a href="productos.php">Productos</a>
-						<li class=""><a href="#">Ubicacion</a>
+						<li class=""><a href="ubicacion.php">Ubicacion</a>
 						<li><a href="#"><i class="fa fa-facebook"></i></a>
 						<li><a href="#"><i class="fa fa-twitter"></i></a>
 					</ul>
@@ -35,7 +35,7 @@
             <li class="active"><a href="#">Inicio</a></li>
             <li><a href="#about">Nuestra Empresa</a></li>
             <li><a href="productos.php"><strong>Producto</strong></a></li>
-            <li><a href="#about">Ubicación</a></li>
+            <li><a href="ubicacion.php">Ubicación</a></li>
 
           </ul>
         </div><!--/.nav-collapse -->
