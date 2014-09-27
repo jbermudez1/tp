@@ -90,14 +90,14 @@
                                 <ul id="lanaMineral" class="collapse manuLaretal-lista categoriaDeProducto">
                                     <h5>Construccion</h5> 
                                     <div class="construccion subMenuLateral">
-                                                     <li><a class="cargaPagina" data-producto="pentaw" data-cat="lanaMinerak/construcion">Penta W</a></li>
-                                       <li>Top W Fijación oculta</li>
-                                       <li>Top WR</li>
-                                       <li>Mec W</li>
-                                       <li>Mec WR</li> 
-                                       <li>Penta WA (acústico)</li>
-                                       <li>Mec WA acústico</li>
-                                       <li>Top WA acústico</li>
+                                        <li><a class="cargaPagina" data-producto="pentaw" data-cat="lanamineral/construccion">Penta W</a></li>
+                                       <li><a class="cargaPagina" data-producto="topwfo" data-cat="lanamineral/construccion">Top W Fijación oculta</a></li>
+                                       <li><a class="cargaPagina" data-producto="topwr" data-cat="lanamineral/construccion">Top WR</a></li>
+                                       <li><a class="cargaPagina" data-producto="mecw" data-cat="lanamineral/construccion">Mec W</a></li>
+                                       <li><a class="cargaPagina" data-producto="mecwr" data-cat="lanamineral/construccion">Mec WR</a></li> 
+                                       <li><a class="cargaPagina" data-producto="pentawa" data-cat="lanamineral/construccion">Penta WA (acústico)</a></li>
+                                       <li><a class="cargaPagina" data-producto="mecwa" data-cat="lanamineral/construccion">Mec WA acústico</a></li>
+                                       <li><a class="cargaPagina" data-producto="topwa" data-cat="lanamineral/construccion">Top WA acústico</a></li>
                                     </div>
                                 </ul>
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" href="#perfiles">
