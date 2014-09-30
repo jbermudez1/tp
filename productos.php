@@ -94,9 +94,13 @@
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" href="#perfiles">
                                 <h4> Perfiles</h4></a>
                                 <ul id="perfiles" class="collapse manuLaretal-lista subMenuLateral">
-                                   <li><a class="cargaPagina" data-producto="canalu" data-cat="perfiles/-">Canal U</a></li>
-                                   <li>cuatro</li>
-                                   <li>cinco</li>
+                                   <li><a class="cargaPagina" data-producto="canalu" data-cat="perfiles/">Canal U</a></li>
+                                   <li><a class="cargaPagina" data-producto="esquineroint" data-cat="perfiles/">Esquinero Interior</a></li>
+                                   <li><a class="cargaPagina" data-producto="esquineroext" data-cat="perfiles/">Esquinero Exterior</a></li>
+                                   <li><a class="cargaPagina" data-producto="pijaspuntadebroca" data-cat="perfiles/">Pijas Punta de Broca</a></li>
+                                   <li><a class="cargaPagina" data-producto="placasfijaciontecho" data-cat="perfiles/">Placas de Fijación para Techo</a></li>
+                                   <li><a class="cargaPagina" data-producto="closure" data-cat="perfiles/">Closure</a></li>
+                                   <li><a class="cargaPagina" data-producto="cumbrera" data-cat="perfiles/">Cumbrera</a></li>
                                 </ul>
                             </div>
                         </nav>
