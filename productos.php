@@ -102,7 +102,10 @@
                                    <li><a class="cargaPagina" data-producto="closure" data-cat="perfiles/">Closure</a></li>
                                    <li><a class="cargaPagina" data-producto="cumbrera" data-cat="perfiles/">Cumbrera</a></li>
                                 </ul>
+                                <a class="manuLaretal-link cargaPagina"  data-producto="colores" data-cat="colores">
+                                <h4> Gama de colores</h4></a>
                             </div>
+
                         </nav>
                         </div>
          <!--    <div class="row"> -->
