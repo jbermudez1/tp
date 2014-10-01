@@ -51,8 +51,8 @@
                                             <li><a class="cargaPagina"  data-producto="monoterdeck" data-cat="poliuretano/construccionCubierta">Mono Ter Deck</a></li>
                                             <li><a class="cargaPagina"  data-producto="tapajuntas" data-cat="poliuretano/construccionCubierta">Tapajuntas</a></li>
                                             <li><a class="cargaPagina"  data-producto="chapapenta" data-cat="poliuretano/construccionCubierta">Chapa Penta G5</a></li>
-                                            <li><a >Italtap</a></li>
-                                            <li><a >Monoitaltap</a></li>
+                                            <li><a class="cargaPagina"  data-producto="italtap" data-cat="poliuretano/construccionCubierta">Italtap</a></li>
+                                            <!--<li><a >Monoitaltap</a></li>-->
                                             <li><a class="cargaPagina"  data-producto="italcoppo" data-cat="poliuretano/construccionCubierta">Italcoppo</a></li>
                                         </ul>
                                    </li>
@@ -63,8 +63,8 @@
                                             <li><a class="cargaPagina" data-producto="polipur" data-cat="poliuretano/agropanel">Polipur</a></li>
                                             <li><a class="cargaPagina" data-producto="agropenta" data-cat="poliuretano/agropanel">Agropenta</a></li>
                                             <li><a class="cargaPagina" data-producto="agrocoppo" data-cat="poliuretano/agropanel">Agrocoppo</a></li>
-                                            <li><a >Agroitaltap</a></li>
-                                            <li><a >Agromonoter</a></li>
+                                            <!--<li><a >Agroitaltap</a></li>
+                                            <li><a >Agromonoter</a></li>-->
                                             <li><a class="cargaPagina" data-producto="agrotapajuntas" data-cat="poliuretano/agropanel">Agrotapajuntas</a></li>
                                  
                                   
@@ -72,6 +72,7 @@
                                        
                                             <li><a class="cargaPagina" data-producto="frigomecbt" data-cat="poliuretano/frigomec">Frigomec BT</a></li>
                                             <li><a class="cargaPagina" data-producto="frigomectp" data-cat="poliuretano/frigomec">Frigomec TP</a></li>
+                                            <li><a class="cargaPagina" data-producto="jumbogsq" data-cat="poliuretano/frigomec">Jumbo GSQ</a></li>
  
                                                    
                                 </ul>
