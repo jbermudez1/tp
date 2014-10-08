@@ -13,9 +13,9 @@
 						<li class="separador"><a href="empresa.php">Nuestra Empresa</a>
 						<li class="separador"><a href="productos.php">Productos</a>
 						<li class=""><a href="ubicacion.php">Ubicacion</a>
-						<li><a href="#"><i class="fa fa-facebook"></i></a>
-						<li><a href="#"><i class="fa fa-twitter"></i></a>
-					</ul>
+						<li><a href="https://www.facebook.com/tp.estructural" target="_blank"><i class="fa fa-facebook"></i></a>
+<!-- 						<li><a href="#"><i class="fa fa-twitter"></i></a>
+ -->					</ul>
 					</div>
 					<!-- menu en xs -->
 					<div class="menuxs visible-xs">

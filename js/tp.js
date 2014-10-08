@@ -1,8 +1,42 @@
-$(document).ready( function(){
+$(document).ready( function(event){
 	$('#menuLateral').addClass('oculto');
 	$('.banner').hide();
-
+  $('#poli').click(indexLinks);
+  detectaLinkIndex();
+  // if (event.currentTarget.dataset.id) {};
 });
+
+function detectaLinkIndex (){
+
+  var poliuretano = "poli";
+  var lanaMineral = "lanamineral";
+  var perfiles = "perfiles";
+
+var categoria = localStorage["link"];
+
+if (categoria === poliuretano ) {
+  localStorage.removeItem("link");
+  primerProductos();
+    // $.get ("productos/lanamineral/construccion/box.html", function(producto){
+    // $('#detalleProductos').html(producto);
+
+}
+if (categoria === lanaMineral ) {
+    $.get ("productos/lanamineral/construccion/pentaw.html", function(producto){
+    $('#detalleProductos').html(producto);});
+    $('#lanaMineral').addClass('in');
+    $('#poliuretano').removeClass('in');
+      localStorage.removeItem("link");
+}
+if (categoria === perfiles ) {
+ $.get ("productos/perfiles//canalu.html", function(producto){
+    $('#detalleProductos').html(producto);});
+    $('#perfiles').addClass('in');
+    $('#poliuretano').removeClass('in');
+      localStorage.removeItem("link");
+} 
+
+}
 
 function primerProductos() {
 		$.get ("productos/poliuretano/construccionFachada/box.html", function(producto){
@@ -111,56 +145,11 @@ function calcRoute(ubicacionCliente, sucursaltp) {
   });
 }
 }
-// google.maps.event.addDomListener(window, 'load', initialize);
+// LINKS DEL INDEX
 
+function indexLinks(eldato){
+    // var clikeado = event.currentTarget.dataset.cat;
+      var elemento = localStorage.setItem("link", eldato);
+      window.location.href="productos.php"
 
-
-
-
-
-
-
-
-
-
-
-
-// function verMapa(lat, lon) {
-//   var myLatlng = new google.maps.LatLng(24.7929965,-107.4063979);
-//   var posicion = new google.maps.LatLng(lat,lon);
-//   var mapOptions = {
-//     zoom: 13,
-//     center: myLatlng
-//   }
-//   var map = new google.maps.Map(document.getElementById('mapa'), mapOptions);
-
-//   var marker = new google.maps.Marker({
-//       position: myLatlng,
-//       map: map,
-//       title: 'Hello World!'
-//   });
-//   var marcador = new google.maps.Marker(
-//   {
-//   	position: posicion,
-//   	map: map,
-//     	tittle: 'posicion dos'
-
-//   }	);
-// }
-
-// verMapa();
-
-// function creaMapa(){
-// 	var mapa;
-// 	mapa = new Image();
-// 	mapa.src = "http://maps.googleapis.com/maps/api/staticmap?zoom=15&size=600x600&sensor=false&center=24.7929965,-107.4063979";
-// 	$('#mapa').append(mapa);
-// 	console.log(mapa);
-
-// }
-// creaMapa();
-
-
-
-
-
+}

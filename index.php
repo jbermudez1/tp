@@ -26,10 +26,9 @@
 				</div>
 				<div class="col-xs-9">
 					<article class="">
-						<h3 class="fnaranja">Panel Poliuretano</h3>
-							<p>Una completa gama de productos para consrucción para la industria del frío y sectores agricolas. capaz de conjugar del mejor modo eficiencia y funcionalidad.
+						<a  ><h3 onclick="indexLinks('poli')" class="fnaranja">Panel Poliuretano</h3></a>
+							<p>Una completa gama de productos para construcción para la industria del frío y sectores agrícolas. capaz de conjugar del mejor modo eficiencia y funcionalidad.
 							</p>
-							<a href="#">Ver productos de Poliuretano</a>
 					</article>
 				</div>
 			</div>
@@ -43,12 +42,11 @@
 				</div>
 				<div class="col-xs-9">
 					<article class="">
-						<h3 class="fnaranja">Panel Lana Mineral</h3>
+							<a id="lana"><h3 onclick="indexLinks('lanamineral')" class="fnaranja">Panel Lana Mineral</h3></a>
 							<p>Por sus elevadas características higiénicas.
 								La lana de roca es biosoluble.
 								No puede ser atacada por los insectos, microorganismos u hongos.
 							</p>
-							<a href="#">Ver productos de lana mineral</a>
 					</article>
 				</div>
 			</div>
@@ -57,17 +55,14 @@
 			<div class="row">
 				<div class="col-xs-3">
 					
-						<img class="img-responsive" src="img/panel-lana.jpg">
+						<img class="img-responsive" src="img/perfiles.jpg">
 					
 				</div>
 				<div class="col-xs-9">
 					<article class="">
-						<h3 class="fnaranja">Perfiles</h3>
-							<p>Por sus elevadas características higiénicas.
-								La lana de roca es biosoluble.
-								No puede ser atacada por los insectos, microorganismos u hongos.
+							<a id="perfiles" ><h3 class="fnaranja" onclick="indexLinks('perfiles')">Perfiles</h3></a>
+							<p>Elementos necesarios para cubrir traslapes, juntas y remates. La principal función de la moldura es crear unión que le permita presentar una obra limpia.
 							</p>
-							<a href="#">Ver Perfiles</a>
 					</article>
 				</div>
 			</div>
@@ -84,7 +79,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
-        <script src="js/tp.js"></script>
+    <script src="js/tp.js"></script>
 	</body>
 
 

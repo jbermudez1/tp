@@ -132,9 +132,9 @@
     primerProductos();
     </script>
 
-<!--     <footer>
+    <footer>
         <?php include('footer.php') ?>
-    </footer> -->
+    </footer> 
 
 </body>
 

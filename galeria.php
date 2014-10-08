@@ -7,6 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="css/medias.css">
 		<link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="css/normalize.css">
+		<link rel="stylesheet" type="text/css" href="shadowbox/shadowbox.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	</head>
@@ -23,16 +24,15 @@
                 <hr/>
         </div>
 		<div class="row">
-			<div class="col-sm-6">
-				<p>
-					Somos una empresa dedicada a la distribución de panel aislante de poliuretano y panel de lana mineral, con el objetivo de satisfacer las necesidades de cada uno de sus clientes, brindándole calidad, servicio y  entrega inmediata.
-				</p>
+			<div class="col-xs-4 col-sm-3">
+				<a href="img/cer1.png" rel="shadowbox">My Image</a>
+
 			</div>
-			<div class="col-xs-6 col-sm-3">
-				<a href="img/cer1.png" target="_blank"><img class="img-responsive" src="img/cer1.png"></a>
+			<div class="col-xs-4 col-sm-3">s
 			</div>
-			<div class="col-xs-6 col-sm-3">
-				<a href="img/cer2.png" target="_blank"><img class="img-responsive" src="img/cer2.png"></a>
+			<div class="col-xs-4 col-sm-3">s
+			</div>
+			<div class="col-xs-4 col-sm-3">s
 			</div>
 		</div>
 	</section>
@@ -47,6 +47,11 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
         <script src="js/tp.js"></script>
+        <script type="text/javascript" src="shadowbox/shadowbox.js"></script>
+        <script type="text/javascript">
+		Shadowbox.init();
+		</script>
+
 	</body>
 
 

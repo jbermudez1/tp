@@ -12,6 +12,10 @@ color: gray
 /*box-shadow: none*/
 
 }
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 #raya {
 	height: 3px;
 	background-color: #e79a41
