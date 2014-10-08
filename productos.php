@@ -129,7 +129,6 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/tp.js"></script>
     <script type="text/javascript">
-    primerProductos();
     </script>
 
     <footer>

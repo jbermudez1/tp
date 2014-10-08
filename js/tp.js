@@ -15,8 +15,9 @@ function detectaLinkIndex (){
 var categoria = localStorage["link"];
 
 if (categoria === poliuretano ) {
-  localStorage.removeItem("link");
-  primerProductos();
+    primerProductos();
+  // localStorage.removeItem("link");
+
     // $.get ("productos/lanamineral/construccion/box.html", function(producto){
     // $('#detalleProductos').html(producto);
 
@@ -26,14 +27,14 @@ if (categoria === lanaMineral ) {
     $('#detalleProductos').html(producto);});
     $('#lanaMineral').addClass('in');
     $('#poliuretano').removeClass('in');
-      localStorage.removeItem("link");
+      // localStorage.removeItem("link");
 }
 if (categoria === perfiles ) {
  $.get ("productos/perfiles//canalu.html", function(producto){
     $('#detalleProductos').html(producto);});
     $('#perfiles').addClass('in');
     $('#poliuretano').removeClass('in');
-      localStorage.removeItem("link");
+      // localStorage.removeItem("link");
 } 
 
 }
