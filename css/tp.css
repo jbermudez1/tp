@@ -37,6 +37,15 @@ margin-bottom: 30px;
 .margen1 {
 	margin-bottom: 20px
 }
+
+.margen2{
+	margin-top: 10px;
+}
+
+.margen3{
+	margin-top: 20px;
+}
+
 header#interior {
 background: url('../img/bg-destock.jpg') no-repeat center center;
 background-size: cover;
