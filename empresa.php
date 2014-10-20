@@ -24,9 +24,23 @@
         </div>
 		<div class="row">
 			<div class="col-sm-6">
-				<p>
-					Somos una empresa dedicada a la distribución de panel aislante de poliuretano y panel de lana mineral, con el objetivo de satisfacer las necesidades de cada uno de sus clientes, brindándole calidad, servicio y  entrega inmediata.
-				</p>
+				<div class="row">
+					<p>
+						Somos una empresa dedicada a la distribución de panel aislante de poliuretano y panel de lana mineral, con el objetivo de satisfacer las necesidades de cada uno de sus clientes, brindándole calidad, servicio y  entrega inmediata.
+					</p>
+			    </div>
+			    <div class="row">
+			    	<div class="col-sm-6 margen1">
+			    		<div class="videoWrapper">
+			    		   <iframe width="560" height="315" src="//www.youtube.com/embed/cxr6lPviRW4" frameborder="0" allowfullscreen></iframe>
+      					</div>
+			    	</div>
+			    	<div class="col-sm-6 margen1">
+			    		<div class="videoWrapper">
+			    		   <iframe width="560" height="315" src="//www.youtube.com/embed/bJsg587DxiM" frameborder="0" allowfullscreen></iframe>
+      					</div>
+			    	</div>
+			    </div>
 			</div>
 			<div class="col-xs-6 col-sm-3">
 				<a href="img/cer1.png" target="_blank"><img class="img-responsive" src="img/cer1.png"></a>
