@@ -37,6 +37,7 @@
                                                 <li><a class="cargaPagina" data-producto="top" data-cat="poliuretano/construccionFachada">Top</a></li>
                                                 <li><a class="cargaPagina" data-producto="mec" data-cat="poliuretano/construccionFachada">Mec</a></li>
                                                 <li><a class="cargaPagina" data-producto="italtop" data-cat="poliuretano/construccionFachada">Italop</a></li>
+                                                <li><a class="cargaPagina" data-producto="pentaflagon" data-cat="poliuretano/construccionFachada">Penta Flagon</a></li>
                                             </ul>
 
                                    <!--  -->
@@ -90,6 +91,7 @@
                                        <li><a class="cargaPagina" data-producto="pentawa" data-cat="lanamineral/construccion">Penta WA (acústico)</a></li>
                                        <li><a class="cargaPagina" data-producto="mecwa" data-cat="lanamineral/construccion">Mec WA acústico</a></li>
                                        <li><a class="cargaPagina" data-producto="topwa" data-cat="lanamineral/construccion">Top WA acústico</a></li>
+                                       <li><a class="cargaPagina" data-producto="pentaflagonw" data-cat="lanamineral/construccion">Penta Flagon W</a></li>
                                     </div>
                                 </ul>
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" href="#perfiles">
