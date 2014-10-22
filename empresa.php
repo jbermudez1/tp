@@ -40,6 +40,7 @@
 			    		   <iframe width="560" height="315" src="//www.youtube.com/embed/bJsg587DxiM" frameborder="0" allowfullscreen></iframe>
       					</div>
 			    	</div>
+			    	<button type="button" class="btn btn-info btn-lg btn-block" onclick="location.href='img/cer3.png'">Ver Certificaciones</button>
 			    </div>
 			</div>
 			<div class="col-xs-6 col-sm-3">

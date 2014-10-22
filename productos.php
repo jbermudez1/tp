@@ -46,7 +46,7 @@
                                         <ul id="poliuretanoCubierta" class="collapse subMenuLateral">
                                             <li><a class="cargaPagina"  data-producto="penta" data-cat="poliuretano/construccionCubierta">Penta</a></li>
                                             <li><a class="cargaPagina"  data-producto="monopenta" data-cat="poliuretano/construccionCubierta">Mono Penta</a></li>
-                                            <li><a class="cargaPagina"  data-producto="monopentadeck" data-cat="poliuretano/construccionCubierta">Mono Penta Deck</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monopentadeck" data-cat="poliuretano/construccionCubierta">Mono Penta Carton</a></li>
                                             <li><a class="cargaPagina"  data-producto="ter" data-cat="poliuretano/construccionCubierta">Ter</a></li>
                                             <li><a class="cargaPagina"  data-producto="monoter" data-cat="poliuretano/construccionCubierta">Mono Ter</a></li>
                                             <li><a class="cargaPagina"  data-producto="monoterdeck" data-cat="poliuretano/construccionCubierta">Mono Ter Deck</a></li>
