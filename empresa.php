@@ -28,28 +28,45 @@
 					<p>
 						Somos una empresa dedicada a la distribución de panel aislante de poliuretano y panel de lana mineral, con el objetivo de satisfacer las necesidades de cada uno de sus clientes, brindándole calidad, servicio y  entrega inmediata.
 					</p>
+					<img src="img/bodegacosterita.png" class="img-responsive">
 			    </div>
-			    <div class="row">
-			    	<div class="col-sm-6 margen1">
-			    		<div class="videoWrapper">
-			    		   <iframe width="560" height="315" src="//www.youtube.com/embed/cxr6lPviRW4" frameborder="0" allowfullscreen></iframe>
-      					</div>
-			    	</div>
-			    	<div class="col-sm-6 margen1">
-			    		<div class="videoWrapper">
+
+			   
+			</div>
+			<div class="col-sm-6">
+				<div class="row">
+				  <div class="col-sm-6 margen1">
+					<div class="videoWrapper">
+				    		   <iframe width="560" height="315" src="//www.youtube.com/embed/cxr6lPviRW4" frameborder="0" allowfullscreen></iframe>
+	      			</div>					
+				  </div>
+				  <div class="col-sm-6 margen1">
+				  	<div class="videoWrapper">
 			    		   <iframe width="560" height="315" src="//www.youtube.com/embed/bJsg587DxiM" frameborder="0" allowfullscreen></iframe>
       					</div>
-			    	</div>
-			    	<button type="button" class="btn btn-info btn-lg btn-block" onclick="location.href='img/cer3.png'">Ver Certificaciones</button>
-			    </div>
+					
+					
+				  </div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						<a href="img/cer1.png" target="_blank"><img class="img-responsive" src="img/cer1.png"></a>
+					
+					</div>
+					<div class="col-sm-6">
+						<a href="img/cer2.png" target="_blank"><img class="img-responsive" src="img/cer2.png"></a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6 margen1">
+						<button type="button" class="btn btn-info btn-lg btn-block" onclick="location.href='img/cer3.png'">Ver Certificaciones</button>
+					</div>
+					<div class="col-sm-6 margen1">
+						<button type="button" class="btn btn-info btn-lg btn-block" onclick="location.href='img/espe.png'">Especificaciones Técnicas</button>
+					</div>
+				</div>
+			
 			</div>
-			<div class="col-xs-6 col-sm-3">
-				<a href="img/cer1.png" target="_blank"><img class="img-responsive" src="img/cer1.png"></a>
-			</div>
-			<div class="col-xs-6 col-sm-3">
-				<a href="img/cer2.png" target="_blank"><img class="img-responsive" src="img/cer2.png"></a>
-			</div>
-		</div>
 	</section>
 	<footer>
 		<?php include('footer.php') ?>
