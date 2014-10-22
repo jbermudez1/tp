@@ -48,8 +48,8 @@
                                             <li><a class="cargaPagina"  data-producto="monopenta" data-cat="poliuretano/construccionCubierta">Mono Penta</a></li>
                                             <li><a class="cargaPagina"  data-producto="monopentadeck" data-cat="poliuretano/construccionCubierta">Mono Penta Carton</a></li>
                                             <li><a class="cargaPagina"  data-producto="ter" data-cat="poliuretano/construccionCubierta">Ter</a></li>
-                                            <li><a class="cargaPagina"  data-producto="monoter" data-cat="poliuretano/construccionCubierta">Mono Ter</a></li>
-                                            <li><a class="cargaPagina"  data-producto="monoterdeck" data-cat="poliuretano/construccionCubierta">Mono Ter Deck</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monoter" data-cat="poliuretano/construccionCubierta">Monoter</a></li>
+                                            <li><a class="cargaPagina"  data-producto="monoterdeck" data-cat="poliuretano/construccionCubierta">Monoter Carton</a></li>
                                             <li><a class="cargaPagina"  data-producto="tapajuntas" data-cat="poliuretano/construccionCubierta">Tapajuntas</a></li>
                                             <li><a class="cargaPagina"  data-producto="chapapenta" data-cat="poliuretano/construccionCubierta">Chapa Penta G5</a></li>
                                             <li><a class="cargaPagina"  data-producto="italtap" data-cat="poliuretano/construccionCubierta">Italtap</a></li>
@@ -105,6 +105,10 @@
                                    <li><a class="cargaPagina" data-producto="placasfijaciontecho" data-cat="perfiles/">Placas de Fijación para Techo</a></li>
                                    <li><a class="cargaPagina" data-producto="closure" data-cat="perfiles/">Closure</a></li>
                                    <li><a class="cargaPagina" data-producto="cumbrera" data-cat="perfiles/">Cumbrera</a></li>
+                                   <li><a class="cargaPagina" data-producto="accesorioscoppo" data-cat="perfiles/">Accesorios Para Panel Tipo Coppo</a></li>
+                                   <li><a class="cargaPagina" data-producto="tapagotero" data-cat="perfiles/">Tapagotero</a></li>
+
+                                   
                                 </ul>
                                 <a class="manuLaretal-link cargaPagina"  data-producto="colores" data-cat="colores">
                                 <h4> Gama de colores</h4></a>
