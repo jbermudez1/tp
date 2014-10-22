@@ -26,7 +26,7 @@
                 <div  id="mapados" class="col-sm-4">
                     <p class="direccion">
                         Rio Nazas #1265Col Los Pinos Cp 80128 Culiacán Sinaloa.<br>
-                        Tel: 7144433 y 714443323
+                        Tel: 714 44 33 y 714 44 23
                     </p>
                     <p><strong>Dejenos un mensaje</strong></p>
 

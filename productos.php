@@ -37,7 +37,7 @@
                                                 <li><a class="cargaPagina" data-producto="top" data-cat="poliuretano/construccionFachada">Top</a></li>
                                                 <li><a class="cargaPagina" data-producto="mec" data-cat="poliuretano/construccionFachada">Mec</a></li>
                                                 <li><a class="cargaPagina" data-producto="italtop" data-cat="poliuretano/construccionFachada">Italop</a></li>
-                                                <li><a class="cargaPagina" data-producto="pentaflagon" data-cat="poliuretano/construccionFachada">Penta Flagon</a></li>
+                                                
                                             </ul>
 
                                    <!--  -->
@@ -53,6 +53,7 @@
                                             <li><a class="cargaPagina"  data-producto="tapajuntas" data-cat="poliuretano/construccionCubierta">Tapajuntas</a></li>
                                             <li><a class="cargaPagina"  data-producto="chapapenta" data-cat="poliuretano/construccionCubierta">Chapa Penta G5</a></li>
                                             <li><a class="cargaPagina"  data-producto="italtap" data-cat="poliuretano/construccionCubierta">Italtap</a></li>
+                                            <li><a class="cargaPagina" data-producto="pentaflagon" data-cat="poliuretano/construccionCubierta">Penta Flagon</a></li>
                                             <!--<li><a >Monoitaltap</a></li>-->
                                             <li><a class="cargaPagina"  data-producto="italcoppo" data-cat="poliuretano/construccionCubierta">Italcoppo</a></li>
                                         </ul>
