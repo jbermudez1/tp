@@ -11,6 +11,7 @@
         <title>TP</title>
     </head>
 <body>
+  <?php include_once("analyticstracking.php") ?>
     <section id="raya">
     </section>
 
@@ -19,32 +20,32 @@
         </header>
         <section class="container " >
               <div class="nombreProducto">
-                <h2>Ubicación</h2><span class="rutaProducto">Sucursal Cualiacán Sin.</span>
+                <h2>Ubicación</h2><span class="rutaProducto">Sucursal Culiacán Sin.</span>
               </div>
            <div class="row">
                 <div id="mapa" class="col-sm-8">Cargando ubicación...</div>
                 <div  id="mapados" class="col-sm-4">
                     <p class="direccion">
-                        Rio Nazas #1265Col Los Pinos Cp 80128 Culiacán Sinaloa.<br>
+                        Rio Nazas #1265 Col Los Pinos Cp 80128 Culiacán Sinaloa.<br>
                         Tel: 714 44 33 y 714 44 23
                     </p>
                     <p><strong>Dejenos un mensaje</strong></p>
 
-                    <form role="form">
+                    <form role="form" name="email" id="email" method="post" action="sendmail.php">
                       <div class="form-group">
-                        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nombre">
+                        <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre">
                       </div>
                        <div class="form-group">
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                        <input type="email" class="form-control" name="mail" id="mail" placeholder="Email">
                       </div>
                        <div class="form-group">
-                        <input type="tel" class="form-control" id="exampleInputEmail1" placeholder="Telefono">
+                        <input type="tel" class="form-control" name="tel" id="tel" placeholder="Telefono">
                       </div>
                        <div class="form-group">
-                            <textarea class="form-control" placeholder="Mensaje" rows="3"></textarea>
+                            <textarea class="form-control" name="mensaje" placeholder="Mensaje" rows="3"></textarea>
                       </div>
-                      <button type="button" class="btn btn-success">Enviar</button>
-
+                      <button type="submit" class="btn btn-success">Enviar</button>
+                  </form>
                 </div>
 
 

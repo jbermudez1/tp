@@ -12,6 +12,7 @@
 	</head>
 
 	<body>
+		<?php include_once("analyticstracking.php") ?>
 		<section id="raya"></section>
 
 		<header id="interior">
