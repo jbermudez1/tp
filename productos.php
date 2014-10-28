@@ -112,6 +112,10 @@
                                 </ul>
                                 <a class="manuLaretal-link cargaPagina"  data-producto="colores" data-cat="colores">
                                 <h4> Gama de colores</h4></a>
+
+                                <a class="manuLaretal-link cargaPagina"  data-producto="colores" id="descarga" data-cat="colores"
+                                onclick="location.href='productos/catalogostp.pdf'">
+                                <h4> Descargar Catálogo Completo</h4></a>
                             </div>
 
                         </nav>
