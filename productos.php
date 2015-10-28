@@ -23,11 +23,23 @@
                 <div class="col-sm-4">
                         <nav id="menuLateral" class="muebelo" >
                             <div class="panel">
+                            <!-- policarbonato -->
+                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" href="#policarbonatos">
+                                <h4> Policarbonatos</h4></a>
+                                <ul id="policarbonatos" class="collapse in manuLaretal-lista subMenuLateral">
+                                   <li><a class="cargaPagina" data-producto="smart-piu" data-cat="policarbonatos/">Smart Piu</a></li>
+                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Panel Piu St</a></li> 
+                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Panel Piu Velario</a></li>
+                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Sysitem Piu</a></li>
+                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Graca Piu</a></li>
+                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Onda Piu</a></li>                              
+                                </ul>
+                            <!--  -->
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" 
                                 href="#poliuretano">
                                     <h4> Panel Poliuretano</h4>
                                 </a>
-                                <ul id="poliuretano" class="collapse in manuLaretal-lista categoriaDeProducto subMenuLateral">
+                                <ul id="poliuretano" class="collapse manuLaretal-lista categoriaDeProducto subMenuLateral">
                                     <div class="poliuretanoCat">
                                         <h5>Panel de Construcción</h5>
                                    <li >

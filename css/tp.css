@@ -336,7 +336,9 @@ color: orange;
 	color: white;
 }
 
-
+a {
+	cursor: pointer;
+}
 
 
 
