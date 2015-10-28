@@ -10,7 +10,7 @@
 					<ul class="">
 						<li class="separador"><a href="index.php">Inicio</a>
 						<li class="separador"><a href="empresa.php">Nuestra Empresa</a>
-						<li class="separador"><a onclick="indexLinks('poli')" >Productos</a>
+						<li  class="separador"><a href="#" onclick="indexLinks('poli')" >Productos</a>
 						<li class="separador"><a href="galeria.php">Galería</a>
 						<li class=""><a href="ubicacion.php">Ubicacion</a>
 						<li><a href="https://www.facebook.com/tp.estructural" target="_blank"><i class="fa fa-facebook"></i></a>

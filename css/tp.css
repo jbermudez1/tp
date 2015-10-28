@@ -12,6 +12,9 @@ color: gray
 /*box-shadow: none*/
 
 }
+#poli {
+	cursor: pointer;
+}
 hr {
 	margin-top: 10px;
 	margin-bottom: 10px;
