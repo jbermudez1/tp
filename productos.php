@@ -28,11 +28,11 @@
                                 <h4> Policarbonatos</h4></a>
                                 <ul id="policarbonatos" class="collapse in manuLaretal-lista subMenuLateral">
                                    <li><a class="cargaPagina" data-producto="smart-piu" data-cat="policarbonatos/">Smart Piu</a></li>
-                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Panel Piu St</a></li> 
-                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Panel Piu Velario</a></li>
-                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Sysitem Piu</a></li>
-                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Graca Piu</a></li>
-                                   <li><a class="cargaPagina" data-producto="" data-cat="policarbonatos/">Onda Piu</a></li>                              
+                                   <li><a class="cargaPagina" data-producto="panel-piu-st" data-cat="policarbonatos/">Panel Piu St</a></li> 
+                                   <li><a class="cargaPagina" data-producto="panel-piu-velario-st" data-cat="policarbonatos/">Panel Piu Velario</a></li>
+                                   <li><a class="cargaPagina" data-producto="system-piu-st" data-cat="policarbonatos/">Sysitem Piu</a></li>
+                                   <li><a class="cargaPagina" data-producto="greca-piu" data-cat="policarbonatos/">Greca Piu</a></li>
+                                   <li><a class="cargaPagina" data-producto="onda-piu" data-cat="policarbonatos/">Onda Piu</a></li>                              
                                 </ul>
                             <!--  -->
                                 <a class="manuLaretal-link" data-toggle="collapse" data-parent="#menuLateral" 
