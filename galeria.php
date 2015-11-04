@@ -48,7 +48,7 @@
 		<span class="rutaProducto">Panel Box</span><br>
 		<div class="row">
 			<br>
-			<div class="col-xs-3">
+			<!-- <div class="col-xs-3">
 				<a href="img/galeria/box25-blanco/01.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/box25-blanco/01-1.jpg"/></a>
 			</div>
 			
@@ -73,7 +73,7 @@
 			
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/box25-blanco/07.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/box25-blanco/07-1.jpg"/></a>
-			</div>									
+			</div>	 -->								
 		</div>
 
 		<br><br>
@@ -105,16 +105,16 @@
 		<br><br>
 		<span class="rutaProducto">Jumbo GSQ</span><br><br>
 		<div class="row">
-			<div class="col-xs-3">
+			<!-- div class="col-xs-3">
 				<a href="img/galeria/jumbogsq/jumbo1.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/jumbogsq/jumbo1.jpg" /></a>
-			</div>
+			</div> -->
 			
 		</div>
 		<br><br>
 		<span class="rutaProducto">Panel Poliuretano - Comedor Luseme</span><br>
 		<div class="row">
 			<br>
-			<div class="col-xs-3">
+			<!-- <div class="col-xs-3">
 				<a href="img/galeria/panel-poliuretano/luseme1.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-poliuretano/luseme1-1.jpg"/></a>
 			</div>
 			
@@ -165,14 +165,14 @@
 			</div>
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/panel-poliuretano/luseme14.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-poliuretano/luseme14-1.jpg"/></a>
-			</div>
+			</div> -->
 		</div>
 
 			<br><br>
 		<span class="rutaProducto">Panel Imitación Teja</span><br>
 		<div class="row">
 			<br>
-			<div class="col-xs-3">
+			<!-- <div class="col-xs-3">
 				<a href="img/galeria/panel-imitacion-teja/01.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-imitacion-teja/01-1.jpg"/></a>
 			</div>
 			
@@ -190,7 +190,7 @@
 			
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/panel-imitacion-teja/05.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-imitacion-teja/05-1.jpg"/></a>
-			</div>
+			</div> -->
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/panel-imitacion-teja/06.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-imitacion-teja/06-1.jpg"/></a>
 			</div>
@@ -234,7 +234,7 @@
 		<span class="rutaProducto">Panel Techo</span><br>
 		<div class="row">
 			<br>
-			<div class="col-xs-3">
+			<!-- <div class="col-xs-3">
 				<a href="img/galeria/panel-techo15/01.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-techo15/01-1.jpg"/></a>
 			</div>
 			
@@ -288,7 +288,7 @@
 			</div>
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/panel-techo15/15.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-techo15/15-1.jpg"/></a>
-			</div>
+			</div> -->
 		</div>
 
 
