@@ -24,7 +24,10 @@
                 <h2>Galería</h2><span class="rutaProducto"></span>
                 <hr/>
         </div>
-        <h3 class="rutaProducto">Instalación Panel Top</h3>
+        <span class="rutaProducto">Policarbonatos</span><br>
+		<div class="row">
+		</div>
+        <span class="rutaProducto">Instalación Panel Top</span><br>
 		<div class="row">
 			<br>
 			<div class="col-xs-3">
