@@ -24,7 +24,7 @@
                 <h2>Galería</h2><span class="rutaProducto"></span>
                 <hr/>
         </div>
-        <span class="rutaProducto">Instalación Panel Top</span><br>
+        <h3 class="rutaProducto">Instalación Panel Top</h3>
 		<div class="row">
 			<br>
 			<div class="col-xs-3">
@@ -45,7 +45,7 @@
 		</div>
 
 		<br><br>
-		<span class="rutaProducto">Panel Box</span><br>
+		<h3 class="rutaProducto">Panel Box</h3>
 		<div class="row">
 			<br>
 			<!-- <div class="col-xs-3">
@@ -77,7 +77,7 @@
 		</div>
 
 		<br><br>
-		<span class="rutaProducto">Instalación de Mec</span><br>
+		<h3 class="rutaProducto">Instalación de Mec</h3>
 		<div class="row">
 			<br>
 			<div class="col-xs-3">
@@ -103,7 +103,7 @@
 			
 		</div>
 		<br><br>
-		<span class="rutaProducto">Jumbo GSQ</span><br><br>
+		<h3 class="rutaProducto">Jumbo GSQ</h3>
 		<div class="row">
 			<!-- div class="col-xs-3">
 				<a href="img/galeria/jumbogsq/jumbo1.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/jumbogsq/jumbo1.jpg" /></a>
@@ -111,7 +111,7 @@
 			
 		</div>
 		<br><br>
-		<span class="rutaProducto">Panel Poliuretano - Comedor Luseme</span><br>
+		<h3 class="rutaProducto">Panel Poliuretano - Comedor Luseme</h3>
 		<div class="row">
 			<br>
 			<!-- <div class="col-xs-3">
@@ -169,7 +169,7 @@
 		</div>
 
 			<br><br>
-		<span class="rutaProducto">Panel Imitación Teja</span><br>
+		<h3 class="rutaProducto">Panel Imitación Teja</h3>
 		<div class="row">
 			<br>
 			<!-- <div class="col-xs-3">
@@ -231,7 +231,7 @@
 		</div>
 
 		<br><br>
-		<span class="rutaProducto">Panel Techo</span><br>
+		<h3 class="rutaProducto">Panel Techo</h3>
 		<div class="row">
 			<br>
 			<!-- <div class="col-xs-3">
@@ -290,7 +290,12 @@
 				<a href="img/galeria/panel-techo15/15.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/panel-techo15/15-1.jpg"/></a>
 			</div> -->
 		</div>
-		<span class="rutaProducto">Policarbonatos</span><br>
+		<h3 class="rutaProducto">Onda PiU</h3>
+		
+		<p>
+		Posee un elevado valor de transmisión de la luz, una excelente protección contra
+		los rayos UV, es resistente a los golpes, a la intemperie, a los
+		cambios de temperatura y al granizo.</p>	
 		<div class="row">
 			<br>
 			<div class="col-xs-3">
@@ -311,6 +316,29 @@
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/policarbonatos/poli5.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli5-1.jpg" /></a>
 			</div>
+		</div>
+
+		<br><br>
+
+		<h3 class="rutaProducto">Smart PiU</h3>
+		<p>Un producto cuya particularidad consiste en la posibilidad de extruir las
+		placas en distintos perfiles y medidas, planas o curvas, en forma ondulada, grecada y en distintos
+		colores, para poder solaparlas a las chapas metálicas y paneles	de cubierta más comunes en el
+		mercado.</p>
+		<div class="row">
+			<div class="col-xs-3 margen2">
+				<a href="img/galeria/policarbonatos/poli12.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli12-1.jpg" /></a>
+			</div>
+			<div class="col-xs-3 margen2">
+				<a href="img/galeria/policarbonatos/poli13.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli13-1.jpg" /></a>
+			</div>
+			<div class="col-xs-3 margen2">
+				<a href="img/galeria/policarbonatos/poli14.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli14-1.jpg" /></a>
+			</div>
+		</div>
+		<br><br>
+		<h3 class="rutaProducto">KIA Motors Panel TOP 50mm Color Silver</h3>
+		<div class="row">
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/policarbonatos/poli6.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli6-1.jpg" /></a>
 			</div>
@@ -329,19 +357,13 @@
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/policarbonatos/poli11.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli11-1.jpg" /></a>
 			</div>
-			<div class="col-xs-3 margen2">
-				<a href="img/galeria/policarbonatos/poli12.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli12-1.jpg" /></a>
-			</div>
-			<div class="col-xs-3 margen2">
-				<a href="img/galeria/policarbonatos/poli13.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli13-1.jpg" /></a>
-			</div>
-			<div class="col-xs-3 margen2">
-				<a href="img/galeria/policarbonatos/poli14.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/policarbonatos/poli14-1.jpg" /></a>
-			</div>
+			
 		</div>
 
 		<br><br>
-		<span class="rutaProducto">Productos</span><br>
+		<h3 class="rutaProducto">Planta de Proceso y Cámaras de Conservación</h3>
+		<p>Planta de proceso y cámaras de conservación. Limón de los ramos, Culiacán Sinaloa.<br>
+		2,000 m2 Frigomec 60 mm</p>
 		<div class="row">
 			<br>
 			<div class="col-xs-3">
@@ -359,6 +381,14 @@
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/productos/pro5.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/productos/pro5-1.jpg" /></a>
 			</div>
+
+		</div>
+		<br><br>
+		<h3 class="rutaProducto">Cámara de Congelación</h3>
+		<p>Cámara de congelación.<br>
+			La tijera, Zapopan Jalisco<br>
+			500 m2  Frigomec 100 mm</p>
+		<div class="row">
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/productos/pro6.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/productos/pro6-1.jpg" /></a>
 			</div>
@@ -374,6 +404,13 @@
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/productos/pro10.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/productos/pro10-1.jpg" /></a>
 			</div>
+		</div>
+		<br><br>
+		<h3 class="rutaProducto">Casetas en Puerto</h3>
+		<p>Casetas en Puerto<br>
+		Topolobampo, Los Mochis, Sinaloa<br>
+		750 m2 Italtop 40 mm</p>
+		<div class="row">
 			<div class="col-xs-3 margen2">
 				<a href="img/galeria/productos/pro11.jpg" rel="shadowbox"><img class="img-responsive" src="img/galeria/productos/pro11-1.jpg" /></a>
 			</div>
