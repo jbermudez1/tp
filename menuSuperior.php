@@ -13,7 +13,7 @@
 						<li  class="separador"><a href="#" onclick="indexLinks('poli')" >Productos</a>
 						<li class="separador"><a href="galeria.php">Galería</a>
 						<li class=""><a href="ubicacion.php">Ubicacion</a>
-						<li><a href="https://www.facebook.com/tp.estructural" target="_blank"><i class="fa fa-facebook"></i></a>
+						<li><a href="https://www.facebook.com/TP-Estructural-SA-De-CV-1478588845738100/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
 <!-- 						<li><a href="#"><i class="fa fa-twitter"></i></a>
  -->					</ul>
 					</div>

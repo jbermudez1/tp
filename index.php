@@ -20,7 +20,23 @@
 		</header>
 	<section class="container">
 	<div clas="row">
-		<div class="col-sm-4">
+		<div class="col-sm-3">
+			<div class="row">
+				<div class="col-xs-3">
+					
+						<img class="img-responsive" src="img/perfiles.jpg">
+					
+				</div>
+				<div class="col-xs-9">
+					<article class="">
+							<a id="perfiles" ><h3 class="fnaranja" onclick="indexLinks('perfiles')">Policarbonatos</h3></a>
+							<p>Texto
+							</p>
+					</article>
+				</div>
+			</div>
+		</div>	
+		<div class="col-sm-3">
 			<div class="row">
 				<div class="col-xs-3">
 					<img class="img-responsive" src="img/panel-poli.jpg">
@@ -34,7 +50,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-sm-3">
 			<div class="row">
 				<div class="col-xs-3">
 					
@@ -52,7 +68,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-sm-3">
 			<div class="row">
 				<div class="col-xs-3">
 					
@@ -68,6 +84,7 @@
 				</div>
 			</div>
 		</div>	
+		
 	</div>
 	</section>
 	<footer>
